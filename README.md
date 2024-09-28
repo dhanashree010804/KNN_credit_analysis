@@ -53,6 +53,6 @@ The following tools and libraries were used to develop and execute this project:
 
 If you have any questions or suggestions regarding this project, feel free to reach out to me:
 
-**Priyant Prashant Nikhare**  
+**Dhanashree Giriya**  
 [GitHub Profile](https://github.com/dhanashree010804)  
 Email: dhanashreegiriya2013@gmail.com
